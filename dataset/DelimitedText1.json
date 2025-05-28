@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
+				"fileName": "TaxiRidesCsvDataset",
 				"folderPath": "Raw",
 				"fileSystem": "taxidata"
 			},
