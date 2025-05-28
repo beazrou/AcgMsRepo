@@ -47,13 +47,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DelimitedText1",
+						"referenceName": "TaxiRidesCsvDataset",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "Parquet1",
+						"referenceName": "TaxiRidesParquetDataset",
 						"type": "DatasetReference"
 					}
 				]
